@@ -6,8 +6,7 @@ import UiCard from './UiCard'
 function App() {
   return (
     <div className="App">
-      {/* <Voting></Voting> */}
-      <Ui></Ui>
+      <Voting></Voting>
     </div>
   );
 }
